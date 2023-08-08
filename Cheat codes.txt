@@ -1,0 +1,7 @@
+	- painkiller : set health to 100hp
+	- progamersmove : kills Rahor instantly
+	- drpepper : set magic level to 100mp (only for magician, evil/white
+magician)
+	- leavemealone : kills the player instantly
+	- notfair : increases Rahor's health by 50hp
+	- oof : decrease player's heath by 10hp

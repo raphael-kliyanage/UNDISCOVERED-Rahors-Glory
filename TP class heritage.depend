@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1583182074 source:/home/raphael/Bureau/TP class heritage/main.cpp
+	<iostream>
+	"ui.h"
+	"character.h"
+	"magician.h"
+	"warrior.h"
+	"evil magician.h"
+	"white magician.h"
+
+1583178278 ician.h"
+
+1581604130 /home/raphael/Bureau/TP class heritage/ui.cpp
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1583246368 
+
+1583184655 source:/home/raphael/Bureau/TP class heritage/ui.cpp
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	"ui.h"
+	"character.h"
+	"warrior.h"
+	"magician.h"
+	"white magician.h"
+	"evil magician.h"
+	<thread>
+	<chrono>
+
+1583180956 /home/raphael/Bureau/TP class heritage/ui.h
+	<string>
+
+1583167425 source:/home/raphael/Bureau/TP class heritage/character.cpp
+	<iostream>
+	"character.h"
+
+1582800106 .h"
+
+1582803690 /home/raphael/Bureau/TP class heritage/character.h
+	<string>
+
+1583181715 source:/home/raphael/Bureau/TP class heritage/magician.cpp
+	<iostream>
+	"magician.h"
+	"ui.h"
+
+1582800102 h"
+
+1582803684 /home/raphael/Bureau/TP class heritage/magician.h
+	"character.h"
+
+1582803706 /home/raphael/Bureau/TP class heritage/warrior.h
+	"character.h"
+
+1582032388 source:/home/raphael/Bureau/TP class heritage/warrior.cpp
+	<iostream>
+	"warrior.h"
+
+1582028788 "
+
+1583181856 source:/home/raphael/Bureau/TP class heritage/evil magician.cpp
+	<iostream>
+	"evil magician.h"
+
+1583178256 cian.h"
+
+1582803700 /home/raphael/Bureau/TP class heritage/evil magician.h
+	"magician.h"
+
+1583181878 source:/home/raphael/Bureau/TP class heritage/white magician.cpp
+	<iostream>
+	"white magician.h"
+
+1582803702 /home/raphael/Bureau/TP class heritage/white magician.h
+	"magician.h"
+
+1583163824 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\character.cpp
+	<iostream>
+	"character.h"
+
+1582800090 f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\character.h
+	<string>
+
+1583178256 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\evil magician.cpp
+	<iostream>
+	"evil magician.h"
+
+1582800100 f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\evil magician.h
+	"magician.h"
+
+1582800084 f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\magician.h
+	"character.h"
+
+1583178114 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\magician.cpp
+	<iostream>
+	"magician.h"
+	"ui.h"
+
+1583177356 f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\ui.h
+	<string>
+
+1583178474 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\main.cpp
+	<iostream>
+	"ui.h"
+	"character.h"
+	"magician.h"
+	"warrior.h"
+	"evil magician.h"
+	"white magician.h"
+
+1582800106 f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\warrior.h
+	"character.h"
+
+1582800102 f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\white magician.h
+	"magician.h"
+
+1583246368 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\ui.cpp
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	"ui.h"
+	"character.h"
+	"warrior.h"
+	"magician.h"
+	"white magician.h"
+	"evil magician.h"
+	<thread>
+	<chrono>
+
+1582028788 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\warrior.cpp
+	<iostream>
+	"warrior.h"
+
+1583178278 source:f:\snir\informatique et réseaux\programmation\codeblocks ide\tp class heritage\white magician.cpp
+	<iostream>
+	"white magician.h"
+
+1590481675 source:/home/raphael/Bureau/TP class heritage/character.cpp
+	<iostream>
+	"character.h"
+
+1590485541 /home/raphael/Bureau/TP class heritage/character.h
+	<string>
+
+1589290237 source:/home/raphael/Bureau/TP class heritage/evil magician.cpp
+	<iostream>
+	"evil magician.h"
+
+1582803700 /home/raphael/Bureau/TP class heritage/evil magician.h
+	"magician.h"
+
+1590485547 /home/raphael/Bureau/TP class heritage/magician.h
+	"character.h"
+
+1589876387 source:/home/raphael/Bureau/TP class heritage/magician.cpp
+	<iostream>
+	"magician.h"
+	"ui.h"
+
+1583180956 /home/raphael/Bureau/TP class heritage/ui.h
+	<string>
+
+1590485154 source:/home/raphael/Bureau/TP class heritage/main.cpp
+	<iostream>
+	"ui.h"
+	"character.h"
+	"magician.h"
+	"warrior.h"
+	"evil magician.h"
+	"white magician.h"
+
+1582803706 /home/raphael/Bureau/TP class heritage/warrior.h
+	"character.h"
+
+1582803702 /home/raphael/Bureau/TP class heritage/white magician.h
+	"magician.h"
+
+1590485412 source:/home/raphael/Bureau/TP class heritage/ui.cpp
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	"ui.h"
+	"character.h"
+	"warrior.h"
+	"magician.h"
+	"white magician.h"
+	"evil magician.h"
+	<thread>
+	<chrono>
+
+1582032388 source:/home/raphael/Bureau/TP class heritage/warrior.cpp
+	<iostream>
+	"warrior.h"
+
+1589290516 source:/home/raphael/Bureau/TP class heritage/white magician.cpp
+	<iostream>
+	"white magician.h"
+
